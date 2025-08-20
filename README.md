@@ -2,11 +2,13 @@
 
 # 📧 Email Spam Classifier
 
-This project is a Machine Learning based **Spam Email Detector** that classifies emails as **Spam** or **Ham (Not Spam)** using text preprocessing, TF-IDF vectorization, and multiple ML models.
+This project is a Machine Learning based **Spam Email Detector** that classifies emails as **Spam** or **Ham (Not Spam)** using text preprocessing, TF-IDF vectorization, and multiple ML classification models.
 
 ---
 
 ## 🚀 Features
+This project aims to build a simple and effective spam detector using:
+
 - Preprocesses raw email text (cleaning, tokenization, lemmatization).
 - Converts text into numerical features using **TF-IDF**.
 - Trains and evaluates multiple models:
